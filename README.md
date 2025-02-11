@@ -1,4 +1,4 @@
-![Banner do projeto](Desafio_1\img\banner.png)
+![Banner do projeto](Desafio_1/img/banner.png)
 
 # Lógica de Programação
 
