@@ -1,4 +1,4 @@
-![Banner do projeto](Desafio_1/img/banner.png)
+![Banner do projeto](img/banner.png)
 
 # Desafio de Lógica de Programação - Trilhas 2B - Ciência de Dados
 
