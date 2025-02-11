@@ -61,8 +61,13 @@ Logica/
 
 ## Autor
 
-Breno Teodomiro
+Breno Teodomiro de Carvalho Neto
 
 ## Status do Projeto
 
 ✅ Concluído
+
+#### Links Importantes
+
+-   [Enviar Projeto](https://docs.google.com/forms/d/e/1FAIpQLSfQLDSEPz6g7ycDgcXwIv6slieX_DT-qMEb4-YC5PpHi0loNg/viewform)
+-   [Video Informações do Projeto](https://www.youtube.com/watch?v=sQ04YG3snHY)
