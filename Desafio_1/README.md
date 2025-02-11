@@ -52,7 +52,9 @@ O desafio consiste em 15 exercícios práticos que abordam:
 ## Estrutura do Projeto
 
 Logica/
+
 ├── desafio_1.js
+
 └── README.md
 
 ## Prazo do Desafio
