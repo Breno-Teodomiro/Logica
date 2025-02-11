@@ -1,8 +1,4 @@
-# Logica
-
-Lógica de programação com Javascript da Alura do programa Trilhas 2B
-
-# Desafio de Lógica de Programação - Trilhas 2B
+# Desafio de Lógica de Programação - Trilhas 2B - Ciência de Dados
 
 ## Descrição
 
