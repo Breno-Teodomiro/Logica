@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto contém a resolução do Desafio 1 do programa Trilhas 2B, focado em conceitos fundamentais de lógica de programação usando JavaScript.
+Este projeto contém a resolução do Desafio 1 do programa Trilhas 2B - Ciência de Dados, focado em conceitos fundamentais de lógica de programação usando JavaScript.
 
 ## Objetivos do Desafio
 
@@ -50,8 +50,8 @@ O desafio consiste em 15 exercícios práticos que abordam:
 ## Estrutura do Projeto
 
 Logica/
-├── desafio_1.js # Arquivo principal com as soluções
-└── README.md # Documentação do projeto
+├── desafio_1.js
+└── README.md
 
 ## Prazo do Desafio
 
